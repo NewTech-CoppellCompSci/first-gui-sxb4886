@@ -1,0 +1,8 @@
+4000 4 4.0 400000 Emerald Lane, Coppell TX, 75018
+source/lab/house1.png
+5800 5 6.0 5000000 Jade Street, Los Angles CA, 96003
+source/lab/house2.png
+2400 3 2.0 200000 Diamond Avenue, Dallas TX, 75023
+source/lab/house3.png
+4700 4 4.5 3500000 Jade Street, Los Angles CA, 96003
+source/lab/house4.png
